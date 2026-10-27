@@ -1,0 +1,29 @@
+POKÉMON KANTO — PERSONALIZAÇÃO INICIAL LSX764
+
+O que foi alterado:
+- Adicionado js/data/custom_trainers.js e carregado depois dos treinadores originais.
+- Raito foi colocado no 1º ginásio (tema Elétrico).
+- Refri no 2º (Água).
+- Marcos no 3º (Fogo).
+- Mathedubay no 4º (Psíquico).
+- Viniblack no 5º (tema sombrio).
+- Nulo no 6º (Fantasma).
+- Caio no 7º (Dragão).
+- Giovanni continua no 8º ginásio para preservar a progressão original.
+- LSX764 foi colocado como campeão final com uma equipe de seis Pokémon.
+
+Limitações desta primeira etapa:
+- O motor original contém somente Pokémon da Geração 1. Lugia, Zekrom, Kyogre, Rayquaza,
+  Yveltal, Mewtwo como assinatura específica (Mewtwo já existe) e Arceus ainda não foram
+  integrados como as assinaturas dos amigos; isso exige expandir os dados de espécies,
+  movimentos, sprites e compatibilidade do motor.
+- A Geração 1 não tem tipo Dark. O time de Viniblack é temático, não um time do tipo Dark real.
+- Os retratos ainda usam sprites originais de líderes; os nomes e equipes foram personalizados.
+- Esta edição é single-player com salvamento local. Não adiciona multiplayer online.
+- Os arquivos de arte/recursos do projeto original seguem sujeitos às condições de seus autores.
+  Não publique nem redistribua o projeto completo sem verificar as permissões aplicáveis.
+
+Como testar:
+1. Extraia o ZIP.
+2. Abra index.html em um navegador moderno com internet ativa (alguns sprites carregam de CDNs).
+3. Comece uma nova aventura para testar os líderes personalizados.
